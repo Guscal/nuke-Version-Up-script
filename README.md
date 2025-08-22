@@ -1,5 +1,7 @@
 # nuke-Version-Up-script
-just a  autosave tool that versions up your script with a set time variable
+
+
+Autosave tool that versions up your script with a set time variable
 
 
 versionUp12 is for nuke 12
